@@ -2,4 +2,10 @@
 Curso de Go da Alura
 
 Curso básico da linguagem Go na plataforma Alura
-Criado programa para verificação de Status Code de alguns sites, onde as informações são registradas em um log simples.
+
+O intuito era construir um programa simples que lesse o Status Code de alguns sites pré-definidos e registrasse o log em um arquivo txt.
+
+Menu:
+1 - Inicar Monitoramento -> Faz o monitoramento dos sites que estão listados no arquivo sites.txt. Ao fazer o momitoramento, é feito um log de registro no arquivo log-status.txt;
+2- Exibe todo log que está contido no arquivo log-status.txt;
+3 - Sai do programa.
